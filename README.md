@@ -65,7 +65,7 @@ I'm a freelancer with a background that spans diverse fields, including **Full-s
       style="height: 180px; width:325px;"
       height=200
       align="center"
-      src="https://github-readme-stats-eight-tau-g9m35dlwc0.vercel.app/api/top-langs/?username=mrjxtr&size_weight=0.05&count_weight=0.1&theme=apprentice&layout=compact&langs_count=6&card_width=270&hide=Jupyter%20Notebook,css,html,Mako,dockerfile,javascript,makefile,zig,vim%script,smalry,glsl,c%2B%2B,c,templ,vim%20script,go%20template,shell"
+      src="https://github-readme-stats-eight-tau-g9m35dlwc0.vercel.app/api/top-langs/?username=mrjxtr&size_weight=0.2&count_weight=0.01&theme=apprentice&layout=compact&langs_count=6&card_width=270&hide=Jupyter%20Notebook,css,html,Mako,dockerfile,javascript,makefile,zig,vim%script,smalry,glsl,c%2B%2B,c,templ,vim%20script,go%20template,shell"
       />
   </a>
   <div style="height:10px;"></div>
